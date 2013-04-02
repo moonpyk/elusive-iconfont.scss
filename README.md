@@ -1,6 +1,8 @@
 Elusive-Iconfont
 ================
 
+Original author : @aristath; SCSS conversion by @moonpyk
+
 The Elusive Iconfont is an icons webfont, optimized for use with twitter's bootstrap.
 
 For examples & usage see http://aristath.github.com/elusive-iconfont/
